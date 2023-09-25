@@ -1,5 +1,5 @@
 #see a demo here
-Link: emily-bonnie.github.io/chat-emily/public/index.html
+Link: [Demo] (emily-bonnie.github.io/chat-emily/public/index.html)
 
 # Getting Started with Create React App
 
